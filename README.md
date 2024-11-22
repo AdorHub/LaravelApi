@@ -1,4 +1,4 @@
-**Инструкция по установке:**
+**Инструкция по установке:** <br><br>
   -composer install <br>
   -скопировать всё из .env-example в .env <br>
   -php artisan key:generate для ключа в .env <br>
